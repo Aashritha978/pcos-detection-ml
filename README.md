@@ -68,7 +68,6 @@ After preprocessing and EDA, the following models were trained and evaluated:
 ## 👩‍💻 Author
 
 **Battaji Aashritha**   
-📍 India  
 🔗 [LinkedIn](www.linkedin.com/in/battaji-aashritha-13b7b232a)
 
 ---
