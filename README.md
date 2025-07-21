@@ -12,7 +12,7 @@ This project focuses on the early detection of **Polycystic Ovary Syndrome (PCOS
 
 ## 📁 Dataset
 
-- **Source**: [Mention Dataset Source, e.g., Kaggle]
+- **Source**: [Kaggle]
 - **Features**: Includes hormonal data, menstrual history, BMI, insulin resistance indicators, and dermatological signs
 - **Target Variable**: `PCOS (Y/N)`
 
